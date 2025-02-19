@@ -25,15 +25,15 @@ C  = '\033[36m' # cyan
 class banner:
     def __init__(self):
         print C+orange+"""
-                             SC_Sopno 
+                  SC_Sopno 
         
-                        Facebook Bruteforce
-                           Faster 1.0 kps
-                           Added More Info
-                    [SC_Sopno Facebook Bruteforce Tool]
-                        [@Created By SC_Sopno] """+C+p+"""
-                  Telegram Chennal: https://t.me/OSS_Cyber_Team
-                Facebook Page: https://www.facebook.com/OSSCyberTeam"""
+                Facebook Bruteforce
+                   Faster 1.0 kps
+                   Added More Info
+        [SC_Sopno Facebook Bruteforce Tool]
+        [@Created By SC_Sopno] """+C+p+"""
+  Telegram Chennal: https://t.me/OSS_Cyber_Team
+Facebook Page: https://www.facebook.com/OSSCyberTeam"""
         cabdulahi.sleep(2)
         print
         
