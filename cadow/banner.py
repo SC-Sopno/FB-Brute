@@ -25,7 +25,10 @@ C  = '\033[36m' # cyan
 class banner:
     def __init__(self):
         print C+orange+"""
-                  SC_Sopno 
+        
+                        HI
+                       I am
+                     SC_Sopno 
         
                 Facebook Bruteforce
                    Faster 1.0 kps
